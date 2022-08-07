@@ -8,15 +8,18 @@ Project 1: Dendritic cells and acute kidney injury
 - File: Excel S2 - spatial.xlsx summary of results from kidney spatial transcriptomics anlysis
 - File: markers.df.scuiri.csv list of marker genes derived from GSE139506
 
+.
 
 Project 2: Gasdermin D and acute kidney injury
 - no files on github yet
 
+.
 
 Project 3: Delayed graft function in kidney tranpslantation
 - File: database variables - basic description of variables collected for subjects in the AUSCAD study
 - File: preimplant bx 0m summary.xlsx summary of results from preimplant biopsy anlaysis
 
+.
 
 Dr Jennifer Li
 Westmead Institute for Medical Research
