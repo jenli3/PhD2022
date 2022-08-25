@@ -1,5 +1,5 @@
 ---
-title: "Jen's scripts for PhD - set up files"
+title: "Jen's scripts for PhD - spatial analysis"
 output:
   html_document:
     df_print: paged
